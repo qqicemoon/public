@@ -1,0 +1,163 @@
+{"mc":{
+	"boy":{
+		"frameRate":5,
+		"labels":[
+			{"name":"plit","frame":1,"end":2}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"boybg2_png",
+			"x":-36,
+			"y":-237
+			},
+			{
+			"res":"boybg1_png",
+			"x":-36,
+			"y":-237
+			}
+			]
+},"girl":{
+		"frameRate":5,
+		"labels":[
+			{"name":"plit","frame":1,"end":2}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"girlback1_png",
+			"x":-50,
+			"y":-223
+			},
+			{
+			"res":"girlback2_png",
+			"x":-50,
+			"y":-223
+			}
+			]
+},"diaomao":{
+		"frameRate":5,
+		"labels":[
+			{"name":"run","frame":1,"end":2}
+			,{"name":"sit","frame":3,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"diaomao1_png",
+			"x":-125,
+			"y":-136
+			},
+			{
+			"res":"diaomao2_png",
+			"x":-125,
+			"y":-136
+			},
+			{
+			"res":"diaomao3_png",
+			"x":-125,
+			"y":-136
+			},
+			{
+			"res":"diaomao4_png",
+			"x":-123,
+			"y":-134
+			}
+			]
+},"jie":{
+		"frameRate":5,
+		"labels":[
+			{"name":"run","frame":1,"end":2}
+			,{"name":"sit","frame":3,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"jie1_png",
+			"x":-93,
+			"y":-99
+			},
+			{
+			"res":"jie2_png",
+			"x":-93,
+			"y":-99
+			},
+			{
+			"res":"jie3_png",
+			"x":-93,
+			"y":-99
+			},
+			{
+			"res":"jie4_png",
+			"x":-93,
+			"y":-99
+			}
+			]
+},"shengbing":{
+		"frameRate":5,
+		"labels":[
+			{"name":"run","frame":1,"end":2}
+			,{"name":"sit","frame":3,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"shengbing1_png",
+			"x":-91,
+			"y":-95
+			},
+			{
+			"res":"shengbing2_png",
+			"x":-91,
+			"y":-95
+			},
+			{
+			"res":"shengbing3_png",
+			"x":-91,
+			"y":-95
+			},
+			{
+			"res":"shengbing4_png",
+			"x":-91,
+			"y":-95
+			}
+			]
+}},
+	"res":{
+		"shengbing4_png":{"x":320,"y":205,"w":73,"h":105},
+		"boybg2_png":{"x":1,"y":124,"w":71,"h":235},
+		"girlback2_png":{"x":498,"y":1,"w":108,"h":221},
+		"jie1_png":{"x":708,"y":97,"w":204,"h":87},
+		"jie3_png":{"x":708,"y":186,"w":75,"h":106},
+		"diaomao3_png":{"x":785,"y":186,"w":74,"h":106},
+		"shengbing1_png":{"x":256,"y":117,"w":196,"h":86},
+		"boybg1_png":{"x":914,"y":1,"w":74,"h":235},
+		"jie4_png":{"x":245,"y":205,"w":73,"h":105},
+		"girlback1_png":{"x":608,"y":1,"w":98,"h":223},
+		"jie2_png":{"x":708,"y":1,"w":189,"h":94},
+		"diaomao2_png":{"x":1,"y":1,"w":253,"h":121},
+		"diaomao4_png":{"x":395,"y":205,"w":72,"h":106},
+		"diaomao1_png":{"x":256,"y":1,"w":240,"h":114},
+		"shengbing3_png":{"x":74,"y":215,"w":72,"h":105},
+		"shengbing2_png":{"x":74,"y":124,"w":169,"h":89}
+	}}
