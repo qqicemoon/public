@@ -9,22 +9,32 @@
             margin: 0;
             font-family: "微软雅黑";
         }
-        #header,#main,#footer{
-            width: 1000px;
-            margin: 20px auto;
+        #header,.main,#footer{
+            width: 980px;
+            margin: 40px auto 20px auto;
             border: 1px solid #999;
             border-radius: 4px;
             padding: 20px 10px;
             text-align: center;
             color: indianred;
         }
-        #main a{
+        .main{
+            margin: 0 auto 20px auto;
+        }
+		.title{
+		  text-align:left;
+		  color:#555;
+            padding: 0 0 5px 0;
+            width: 1000px;
+            margin: 0 auto;
+		}
+        .main a{
             padding: 5px;
             text-decoration: underline;
             font-size: 18px;
             color: chocolate;
         }
-        #main a:hover{
+        .main a:hover{
             color: darkkhaki;
             text-decoration: none;
         }
@@ -42,14 +52,20 @@
 <header id="header">
 <h1>部分作品列表</h1>
 </header>
-<div id="main">
+<div class="title">网站作品</div>
+<div class="main">
     <a href="http://www.tyys.cn/" target="_blank">田野文化</a>
     <a href="food/index.html" target="_blank">手机美食</a>
-    <a href="hitblock/index.html" target="_blank">打砖块</a>
     <a href="mobikylin/index.html" target="_blank">掌麟科技</a>
     <a href="xianlaiwang/index.html" target="_blank">鲜来网</a>
+</div>
+<div class="title">游戏作品</div>
+<div class="main">
+    <a href="hitblock/index.html" target="_blank">打砖块</a>
     <a href="ice3" target="_blank">三星冰箱</a>
     <a href="helpdog" target="_blank">拯救汪星人</a>
+    <a href="planewar" target="_blank">飞机大战</a>
+    <a href="car3" target="_blank">三车</a>
 </div>
 <footer id="footer">
     <p>作者：<b>余坤朋</b></p>
