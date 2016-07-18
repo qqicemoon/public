@@ -1,0 +1,23 @@
+{
+    "citie":[
+        {"des":1, "needCoin":1000},
+        {"des":3, "needCoin":5000},
+        {"des":4, "needCoin":20000},
+        {"des":5, "needCoin":50000},
+        {"des":6}
+    ],
+    "fly":[
+        {"des":2, "needCoin":2000},
+        {"des":3, "needCoin":4200},
+        {"des":4, "needCoin":20000},
+        {"des":5, "needCoin":50000},
+        {"des":6}
+    ],
+    "juren":[
+        {"des":2, "needCoin":2000},
+        {"des":3, "needCoin":10000},
+        {"des":4, "needCoin":20000},
+        {"des":5, "needCoin":50000},
+        {"des":6}
+    ]
+}

@@ -1,0 +1,26 @@
+{
+	"churujianghu":{
+		"name":"初入江湖",
+		"task_des":"累计跑过300米",
+		"task_icon":"zhadan_png",
+		"task_total":300,
+		"reward_icon":"coin_gold_png",
+		"reward_num":500
+	},
+	"tiandaochouqin":{
+		"name":"天道酬勤",
+		"task_des":"累计签到15次",
+		"task_icon":"zhadan_png",
+		"task_total":15,
+		"reward_icon":"coin_gold_png",
+		"reward_num":500
+	},
+	"woxinchangdan":{
+		"name":"卧薪尝胆",
+		"task_des":"累计复活20次",
+		"task_icon":"zhadan_png",
+		"task_total":20,
+		"reward_icon":"coin_gold_png",
+		"reward_num":500
+	}
+}

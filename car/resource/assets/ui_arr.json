@@ -1,0 +1,11 @@
+{"file":"ui_arr.png","frames":{
+"life_png":{"x":383,"y":118,"w":44,"h":39,"offX":0,"offY":0,"sourceW":44,"sourceH":39},
+"arrowDown_png":{"x":340,"y":296,"w":99,"h":100,"offX":0,"offY":0,"sourceW":99,"sourceH":100},
+"arrowUp_png":{"x":344,"y":194,"w":97,"h":97,"offX":0,"offY":0,"sourceW":97,"sourceH":97},
+"buttonDown_png":{"x":1,"y":296,"w":337,"h":98,"offX":3,"offY":2,"sourceW":341,"sourceH":100},
+"buttonUp_png":{"x":1,"y":194,"w":341,"h":100,"offX":0,"offY":0,"sourceW":341,"sourceH":100},
+"pauseUp_png":{"x":383,"y":37,"w":121,"h":33,"offX":0,"offY":0,"sourceW":121,"sourceH":33},
+"shield_png":{"x":383,"y":72,"w":42,"h":44,"offX":0,"offY":0,"sourceW":42,"sourceH":44},
+"speedBtnDown_png":{"x":1,"y":1,"w":189,"h":191,"offX":0,"offY":0,"sourceW":189,"sourceH":191},
+"speedBtnUp_png":{"x":192,"y":1,"w":189,"h":191,"offX":0,"offY":0,"sourceW":189,"sourceH":191},
+"pauseDown_png":{"x":383,"y":1,"w":121,"h":34,"offX":0,"offY":0,"sourceW":121,"sourceH":34}}}

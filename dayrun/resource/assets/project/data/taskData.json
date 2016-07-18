@@ -1,0 +1,23 @@
+{
+	"fuhuo_1":{
+		"task_des":"复活1次",
+		"task_icon":"zhadan_png",
+		"task_total":1,
+		"reward_icon":"coin_gold_png",
+		"reward_num":500
+	},
+	"pao_100":{
+		"task_des":"单局跑过100米",
+		"task_icon":"zhadan_png",
+		"task_total":1,
+		"reward_icon":"coin_gold_png",
+		"reward_num":500
+	},
+	"pao_800":{
+		"task_des":"累积跑过800米",
+		"task_icon":"zhadan_png",
+		"task_total":800,
+		"reward_icon":"coin_gold_png",
+		"reward_num":500
+	}
+}
